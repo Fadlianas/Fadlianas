@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=FADLI%20Anas&fontSize=48&fontAlignY=34&animation=fadeIn&fontColor=ffffff&desc=Management%20%26%20Governance%20of%20Information%20Systems&descAlignY=56&descSize=17" width="100%" alt="FADLI Anas" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=FADLI%20Anas&fontSize=48&fontAlignY=34&animation=fadeIn&fontColor=ffffff&desc=Management%20%26amp%3B%20Governance%20of%20Information%20Systems&descAlignY=56&descSize=17" width="100%" alt="FADLI Anas" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=Management+%26+Governance+of+Information+Systems;Engineering+Student+%C2%B7+DevSecOps+%C2%B7+Software+%C2%B7+AI;Passionate+about+innovation+%26+open+source;Learning+by+building%2C+breaking+and+fixing" alt="Typing headline" />
 
