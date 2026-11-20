@@ -1,39 +1,94 @@
-hello , i'm anas 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anas-fadli-73b234295) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=FADLI%20Anas&fontSize=48&fontAlignY=34&animation=fadeIn&fontColor=ffffff&desc=Management%20%26%20Governance%20of%20Information%20Systems&descAlignY=56&descSize=17" width="100%" alt="FADLI Anas" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Fadlianas&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Fadlianas&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadlianas&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=Management+%26+Governance+of+Information+Systems;Engineering+Student+%C2%B7+DevSecOps+%C2%B7+Software+%C2%B7+AI;Passionate+about+innovation+%26+open+source;Learning+by+building%2C+breaking+and+fixing" alt="Typing headline" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Fadlianas&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://www.linkedin.com/in/anas-fadli-73b234295"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Fadlianas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:fadli.anas.fa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Fadlianas&limit=5&theme=dracula&combine_all_yearly_contributions=true)
----
-[![](https://visitcount.itsvg.in/api?id=Fadlianas&icon=9&color=4)](https://visitcount.itsvg.in)
+## About
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I study **Management & Governance of Information Systems** in Oujda, Morocco. I like software that is useful, secure, and easy to understand — and I learn best by taking things apart and putting them back together.
 
-<!--
-**Fadlianas/Fadlianas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Université Mohammed Premier**, Oujda
+- 🧩 Comfortable across the stack: **React · Flask · MySQL**, with **Go** and **Linux** on the side
+- 🔐 Focused on **DevSecOps**, software engineering, AI, and innovation
+- 🌱 Tinkering with open source — forking, tweaking, and learning from real codebases
 
-Here are some ideas to get you started:
+## Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,py,js,html,css,bash,go,react,vite,flask,laravel,bootstrap,mysql&perline=7" alt="Languages and frameworks" />
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,vim,blender,figma,arduino,postman&perline=10" alt="Tools and platforms" />
+
+<p>
+  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+</div>
+
+## Featured Work
+
+| Project | What it is | Built with |
+| :--- | :--- | :--- |
+| **[DRIVADO](https://github.com/Fadlianas/drivado-codebase-v2)** | Car rental marketplace connecting local agencies with customers | `Laravel 12` `Vite` `Bootstrap 5` |
+| **[DustShield](https://github.com/Fadlianas/DustShield)** | Hackathon project built at Pentathon ENSAO | `Python` `Jupyter` |
+| **[SitePulse](https://github.com/Fadlianas/SitePulse)** | CLI that checks URLs and reports their HTTP status | `Go` |
+| **[Square Music](https://github.com/Fadlianas/Square-music) / [Vivi Music](https://github.com/Fadlianas/vivi-music)** | Open-source Android clients I forked and tweaked | `Kotlin` `Rust` |
+| **[Flappy Bird Clone](https://github.com/Fadlianas/fllapy-bird-clone)** | Browser game rebuilt from scratch | `JavaScript` |
+| **[Stopwatch](https://github.com/Fadlianas/stopwatch)** | My first React project — still handy | `React` |
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fadlianas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadlianas&layout=compact&langs_count=8&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Fadlianas&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA" alt="GitHub streak" />
+
+</div>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fadlianas/Fadlianas/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fadlianas/Fadlianas/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Fadlianas/Fadlianas/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+## Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fadlianas&label=Profile%20views&color=7C3AED&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center"><i>Always open to interesting projects, internships, and conversations about DevSecOps.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%" alt="Footer" />
